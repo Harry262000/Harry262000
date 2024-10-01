@@ -23,7 +23,7 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm an Junior Machine Learning Engineer.
-- 🔭: I’m currently working as an MLE Intern @Nroad.
+- 🔭: I’m currently looking for roles.
 - 🌱: I’m currently working on projects like documents parsing like pdf, unstructured data, OCR, Machine Learning, Deep learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about anything, feel free to help you. 📊📈🤖🧠
