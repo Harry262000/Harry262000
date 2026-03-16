@@ -22,32 +22,28 @@
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Harshal Honde<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="50px"/></h1>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm an Junior Machine Learning Engineer.
-- 🔭: I’m currently looking for roles.
-- 🌱: I’m currently working on projects like documents parsing like pdf, unstructured data, OCR, Machine Learning, Deep learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about anything, feel free to help you. 📊📈🤖🧠
-- 😄  Pronouns: He/Him
-- ⚡  Fun fact: I'm an Introvert and a boring guy.
+- 🔭 I build things. backend, data, models — whatever it takes to ship
+- 🌍 Open source contributor — I believe great software lives in public
+- 🛠️ From raw data to running systems, I figure it out
+- 🐶 Dog person. Non-negotiable.
+- ⚡ Introvert. The commits speak louder anyway.
+- 😄 He/Him
 <hr>
-<h1 align="center">Get in Touch! 📬</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshalhonde268/" target="blank"><img align="center" src="https://img.shields.io/badge/Harshal%20Honde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;<a href="mailto:Harshalhonde50@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Harshalhonde50@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;<a href="https://peerlist.io/harshal268" target="blank"><img align="center" src="https://img.shields.io/badge/Peerlist.io-5AC710?style=for-the-badge&logo=Peerlist&logoColor=white"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://www.codewars.com/users/Harry262000" target="blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; <a href="https://gitlab.com/Harry262000" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; <a href="https://www.notion.so/7257e04c05af49f4a9746fcc2fdf010a?pvs=4" target="blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/harshalhonde268/" target="blank"><img align="center" src="https://img.shields.io/badge/Harshal%20Honde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;<a href="mailto:Harshalhonde50@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Harshalhonde50@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;<a href="https://peerlist.io/harshal268" target="blank"><img align="center" src="https://img.shields.io/badge/Peerlist.io-5AC710?style=for-the-badge&logo=Peerlist&logoColor=white"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://www.codewars.com/users/Harry262000" target="blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; <a href="https://gitlab.com/Harry262000" target="blank"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a> &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/Harry262000/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> 
 </p>
 <hr>
 
-## Latest Projects -
 
-[![Time Series Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Time_series_forcasting&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Time_series_forcasting)
+<!--[![Time Series Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Time_series_forcasting&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Time_series_forcasting)
 [![Chatbot Development](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Chatbot-Developement&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Chatbot-Developement)
 [![Youtube Trend Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Youtube_trend_forcasting_project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Youtube_trend_forcasting_project)
-[![Text Summarization Project](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Natural-Language-Processing&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Natural-Language-Processing)
+[![Text Summarization Project](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Natural-Language-Processing&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Natural-Language-Processing) 
 
 <p align="left">
   <a href="https://github.com/Harry262000?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+</p>-->
 
-<hr/>
 
 <p align="center">
    <a href="https://github.com/Harry262000">
